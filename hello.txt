@@ -1,2 +1,2 @@
 Hello World !
-My nam is Tom
+My name is Tom
